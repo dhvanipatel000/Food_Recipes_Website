@@ -1,0 +1,45 @@
+
+.navbar-div .header {
+    background-color: white;
+    color: rgb(75, 75, 237);
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: 1rem 5%;
+    display: flex;
+    align-items: center;
+    position: fixed;
+}
+.navbar-div .header .logo {
+    margin-right: auto;
+    font-size: 2.5rem;
+    color: black;
+    font-weight: bolder;
+}
+.navbar-div .navbar{
+    box-shadow: none;
+    /* margin-left: 45rem;
+    position:fixed; */
+    float:right;
+}
+.navbar-div .header .navbar a {
+    margin-left:2rem;
+    font-size: 1.5rem;
+    color: black;
+    position: relative;
+}
+.navbar-div .header .navbar a::after{
+    content: '';
+    height: 3px;
+    width: 0%;
+    background: #EA7B00;
+    position: absolute;
+    left: 0;
+    bottom:0;
+    transition: 0.5s;
+}
+
+.navbar-div .header .navbar a:hover::after{
+    background-color: #EA7B00;
+    width: 100%;
+}

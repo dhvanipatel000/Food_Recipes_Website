@@ -1,0 +1,54 @@
+.ucontainer{
+    margin-top: 85px;
+    margin-left: 5rem;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.umain{
+    padding: 2rem;
+    display: flex;
+    flex-wrap: wrap;
+    flex: 1 50%;
+}
+
+.ucard{
+    width: 35rem;
+    height: 35rem;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    overflow: hidden;
+    overflow: hidden;
+}
+.ucardimg{
+    margin-left: 55px;
+    width: 20rem;
+    height: 20rem;
+}
+h6{
+    font-size: 2rem;
+    margin-left: 15px;
+    color: black;
+    font-weight: 200;
+    overflow: hidden;
+}
+.ubtn1{
+    margin-left: 125px;
+    margin-bottom: 5px;
+    font-size: 1rem;
+    width: 3rem;
+}
+.ubtn2{
+    margin-left: 5px;
+    margin-bottom: 5px;
+    font-size: 1rem;
+    background-color: rgb(0, 198, 0);
+    width: 3rem;
+}
+.ubtn3{
+    margin-left: 10px;
+    margin-bottom: 5px;
+    background-color: red;
+    font-size: 1rem;
+    width: 3rem;
+}

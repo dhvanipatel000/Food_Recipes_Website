@@ -1,0 +1,34 @@
+.dbox {
+    display:block;
+    margin-top: 150px;
+    margin-left: 150px;
+  }
+  
+ .dimage img {
+    margin-left: 450px;
+    max-width: 20%;
+    max-height:20%;
+  }
+  
+  .dtext {
+    margin-top: 50px;
+    overflow: hidden;
+    font-size: 15px;
+  }
+.dh4{
+    margin-left: 25px;
+    color: #EA7B00;
+    font-size: 2rem;
+    margin-bottom: 15px;
+}
+.dtext h6{
+  margin-left: 25px;
+    color: black;
+    font-size: 1.3rem;
+}
+p{
+  color: black;
+  font-size: 1.3rem;
+  margin-left: 25px;
+  margin-right: 250px;
+}

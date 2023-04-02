@@ -1,0 +1,37 @@
+.vrcontainer{
+    margin-top: 85px;
+    margin-left: 5rem;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.vrmain{
+    padding: 2rem;
+}
+
+.card{
+    width: 35rem;
+    height: 30rem;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    overflow: hidden;
+    overflow: hidden;
+}
+.cardimg{
+    margin-left: 55px;
+    width: 20rem;
+    height: 20rem;
+}
+h5{
+    font-size: 2rem;
+    margin-left: 15px;
+    color: black;
+    font-weight: 200;
+    overflow: hidden;
+}
+.vrbtn{
+    margin-left: 105px;
+    background-color: #EA7B00;
+    width: 12rem;
+}
